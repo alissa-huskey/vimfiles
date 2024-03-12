@@ -1,0 +1,26 @@
+snippet @test
+	@test "${1:test something}" {
+	  ${2:skip}
+	}
+
+snippet lib
+	load '/usr/local/lib/bats/load.bash'
+
+snippet #{
+	# ${1:group} {{{
+	#
+
+	${3:contents}
+
+	#
+	# }}} / ${2:$1}
+
+snippet setup
+	setup() {
+	  ${1}
+	}
+
+snippet teardown
+	teardown() {
+	  ${1}
+	}
