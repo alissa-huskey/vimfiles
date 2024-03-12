@@ -29,5 +29,5 @@ A brief explanation of what each file and directory is for.
 | `UltiSnips/`        | snippets used with the UltiSnips plugin                     |
 |                     |                                                             |
 
-[^1]: This directory can't be called `colors` because then it will interpret
-      each file as its own colorscheme.
+[^1]: This directory can't be called `colors` because it would interpret each
+      file as its own colorscheme.
