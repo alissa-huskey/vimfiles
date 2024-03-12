@@ -1,0 +1,267 @@
+[submodule "dot-vim/pack/prose/start/limelight.vim"]
+	path = dot-vim/pack/prose/start/limelight.vim
+	url = git@github.com:junegunn/limelight.vim.git
+[submodule "dot-vim/pack/navigation/start/nerdtree"]
+	path = dot-vim/pack/navigation/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "dot-vim/pack/appearance/start/vim-indent-guides"]
+	path = dot-vim/pack/appearance/start/vim-indent-guides
+	url = git@github.com:preservim/vim-indent-guides.git
+[submodule "dot-vim/pack/checkers/start/syntastic"]
+	path = dot-vim/pack/checkers/start/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "dot-vim/pack/completion/opt/deoplete.nvim"]
+	path = dot-vim/pack/completion/opt/deoplete.nvim
+	url = git@github.com:Shougo/deoplete.nvim.git
+[submodule "dot-vim/pack/completion/opt/vim-mucomplete"]
+	path = dot-vim/pack/completion/opt/vim-mucomplete
+	url = git@github.com:lifepillar/vim-mucomplete.git
+[submodule "dot-vim/pack/custom-colors/start/muon-vim"]
+	path = dot-vim/pack/custom-colors/start/muon-vim
+	url = git@github.com:muon-data/muon-vim.git
+[submodule "dot-vim/pack/custom-colors/start/codesmell_dark.vim"]
+	path = dot-vim/pack/custom-colors/start/codesmell_dark.vim
+	url = git@github.com:whatsthatsmell/codesmell_dark.vim.git
+[submodule "dot-vim/pack/custom-colors/start/inkpot"]
+	path = dot-vim/pack/custom-colors/start/inkpot
+	url = git@github.com:ciaranm/inkpot.git
+[submodule "dot-vim/pack/custom-colors/start/inkstained-vim"]
+	path = dot-vim/pack/custom-colors/start/inkstained-vim
+	url = git@github.com:yuttie/inkstained-vim.git
+[submodule "dot-vim/pack/custom-colors/start/jellybeans.vim"]
+	path = dot-vim/pack/custom-colors/start/jellybeans.vim
+	url = git@github.com:nanotech/jellybeans.vim.git
+[submodule "dot-vim/pack/custom-colors/start/nofrils"]
+	path = dot-vim/pack/custom-colors/start/nofrils
+	url = git@github.com:robertmeta/nofrils.git
+[submodule "dot-vim/pack/custom-colors/start/spacemacs-theme"]
+	path = dot-vim/pack/custom-colors/start/spacemacs-theme
+	url = git@github.com:nashamri/spacemacs-theme.git
+[submodule "dot-vim/pack/custom-colors/start/urara.vim"]
+	path = dot-vim/pack/custom-colors/start/urara.vim
+	url = git@github.com:haxibami/urara.vim.git
+[submodule "dot-vim/pack/custom-colors/start/vim-atom-dark"]
+	path = dot-vim/pack/custom-colors/start/vim-atom-dark
+	url = git@github.com:gosukiwi/vim-atom-dark.git
+[submodule "dot-vim/pack/custom-colors/start/aurora"]
+	path = dot-vim/pack/custom-colors/start/aurora
+	url = git@github.com:ray-x/aurora.git
+[submodule "dot-vim/pack/custom-colors/start/vim-colors-pencil"]
+	path = dot-vim/pack/custom-colors/start/vim-colors-pencil
+	url = git@github.com:preservim/vim-colors-pencil.git
+[submodule "dot-vim/pack/custom-colors/start/vim-irblack"]
+	path = dot-vim/pack/custom-colors/start/vim-irblack
+	url = git@github.com:wesgibbs/vim-irblack.git
+[submodule "dot-vim/pack/custom-colors/start/vim-unicon"]
+	path = dot-vim/pack/custom-colors/start/vim-unicon
+	url = git@github.com:andbar-ru/vim-unicon.git
+[submodule "dot-vim/pack/custom-colors/start/vim-vividchalk"]
+	path = dot-vim/pack/custom-colors/start/vim-vividchalk
+	url = git@github.com:tpope/vim-vividchalk.git
+[submodule "dot-vim/pack/custom-colors/start/vim-wwdc16-theme"]
+	path = dot-vim/pack/custom-colors/start/vim-wwdc16-theme
+	url = git@github.com:lifepillar/vim-wwdc16-theme.git
+[submodule "dot-vim/pack/filetypes/opt/vim-orgmode"]
+	path = dot-vim/pack/filetypes/opt/vim-orgmode
+	url = git@github.com:jceb/vim-orgmode.git
+[submodule "dot-vim/pack/filetypes/start/Vim-Jinja2-Syntax"]
+	path = dot-vim/pack/filetypes/start/Vim-Jinja2-Syntax
+	url = git@github.com:Glench/Vim-Jinja2-Syntax.git
+[submodule "dot-vim/pack/filetypes/start/ack.vim"]
+	path = dot-vim/pack/filetypes/start/ack.vim
+	url = git@github.com:mileszs/ack.vim.git
+[submodule "dot-vim/pack/filetypes/start/bats.vim"]
+	path = dot-vim/pack/filetypes/start/bats.vim
+	url = git@github.com:aliou/bats.vim.git
+[submodule "dot-vim/pack/filetypes/start/brew.vim"]
+	path = dot-vim/pack/filetypes/start/brew.vim
+	url = git@github.com:xu-cheng/brew.vim.git
+[submodule "dot-vim/pack/filetypes/start/org.vim"]
+	path = dot-vim/pack/filetypes/start/org.vim
+	url = git@github.com:axvr/org.vim.git
+[submodule "dot-vim/pack/filetypes/start/plantuml-syntax"]
+	path = dot-vim/pack/filetypes/start/plantuml-syntax
+	url = git@github.com:aklt/plantuml-syntax.git
+[submodule "dot-vim/pack/filetypes/start/python-mode"]
+	path = dot-vim/pack/filetypes/start/python-mode
+	url = git@github.com:python-mode/python-mode.git
+[submodule "dot-vim/pack/filetypes/start/requirements.txt.vim"]
+	path = dot-vim/pack/filetypes/start/requirements.txt.vim
+	url = git@github.com:raimon49/requirements.txt.vim.git
+[submodule "dot-vim/pack/filetypes/start/Taskfile.nvim"]
+	path = dot-vim/pack/filetypes/start/Taskfile.nvim
+	url = git@github.com:mistweaverco/Taskfile.nvim
+[submodule "dot-vim/pack/filetypes/opt/taskfile.vim"]
+	path = dot-vim/pack/filetypes/opt/taskfile.vim
+	url = https://github.com/alissa-huskey/taskfile.vim
+[submodule "dot-vim/pack/filetypes/start/textx.vim"]
+	path = dot-vim/pack/filetypes/start/textx.vim
+	url = git@github.com:textX/textx.vim.git
+[submodule "dot-vim/pack/filetypes/start/utl.vim"]
+	path = dot-vim/pack/filetypes/start/utl.vim
+	url = git@github.com:vim-scripts/utl.vim
+[submodule "dot-vim/pack/filetypes/start/vim-antlr"]
+	path = dot-vim/pack/filetypes/start/vim-antlr
+	url = git@github.com:rollxx/vim-antlr
+[submodule "dot-vim/pack/filetypes/start/vim-arduino"]
+	path = dot-vim/pack/filetypes/start/vim-arduino
+	url = git@github.com:stevearc/vim-arduino
+[submodule "dot-vim/pack/filetypes/start/vim-gnupg"]
+	path = dot-vim/pack/filetypes/start/vim-gnupg
+	url = git@github.com:jamessan/vim-gnupg
+[submodule "dot-vim/pack/filetypes/start/vim-go"]
+	path = dot-vim/pack/filetypes/start/vim-go
+	url = git@github.com:fatih/vim-go
+[submodule "dot-vim/pack/filetypes/start/vim-jq"]
+	path = dot-vim/pack/filetypes/start/vim-jq
+	url = git@github.com:bfrg/vim-jq
+[submodule "dot-vim/pack/filetypes/start/vim-json"]
+	path = dot-vim/pack/filetypes/start/vim-json
+	url = git@github.com:leshill/vim-json
+[submodule "dot-vim/pack/filetypes/start/jsonc.vim"]
+	path = dot-vim/pack/filetypes/start/jsonc.vim
+	url = git@github.com:neoclide/jsonc.vim
+[submodule "dot-vim/pack/filetypes/start/vim-man"]
+	path = dot-vim/pack/filetypes/start/vim-man
+	url = git@github.com:vim-utils/vim-man
+[submodule "dot-vim/pack/filetypes/start/vim-markdown"]
+	path = dot-vim/pack/filetypes/start/vim-markdown
+	url = git@github.com:preservim/vim-markdown
+[submodule "dot-vim/pack/filetypes/start/vim-markdown-toc"]
+	path = dot-vim/pack/filetypes/start/vim-markdown-toc
+	url = git@github.com:mzlogin/vim-markdown-toc
+[submodule "dot-vim/pack/filetypes/start/vim-mermaid"]
+	path = dot-vim/pack/filetypes/start/vim-mermaid
+	url = git@github.com:craigmac/vim-mermaid
+[submodule "dot-vim/pack/filetypes/start/tree-sitter-mermaid"]
+	path = dot-vim/pack/filetypes/start/tree-sitter-mermaid
+	url = git@github.com:monaqa/tree-sitter-mermaid.git
+[submodule "dot-vim/pack/filetypes/start/vim-mustache-handlebars"]
+	path = dot-vim/pack/filetypes/start/vim-mustache-handlebars
+	url = git@github.com:mustache/vim-mustache-handlebars
+[submodule "dot-vim/pack/filetypes/start/vim-python-folding"]
+	path = dot-vim/pack/filetypes/start/vim-python-folding
+	url = git@github.com:samuelstevens/vim-python-folding
+[submodule "dot-vim/pack/filetypes/start/vim-rake"]
+	path = dot-vim/pack/filetypes/start/vim-rake
+	url = git@github.com:tpope/vim-rake
+[submodule "dot-vim/pack/filetypes/start/vim-restructuredtext"]
+	path = dot-vim/pack/filetypes/start/vim-restructuredtext
+	url = git@github.com:marshallward/vim-restructuredtext
+[submodule "dot-vim/pack/filetypes/start/vim-ruby"]
+	path = dot-vim/pack/filetypes/start/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby
+[submodule "dot-vim/pack/filetypes/start/vim-superman"]
+	path = dot-vim/pack/filetypes/start/vim-superman
+	url = git@github.com:jez/vim-superman
+[submodule "dot-vim/pack/filetypes/start/vim-toml"]
+	path = dot-vim/pack/filetypes/start/vim-toml
+	url = git@github.com:cespare/vim-toml
+[submodule "dot-vim/pack/custom-colors/start/iceberg.vim"]
+	path = dot-vim/pack/custom-colors/start/iceberg.vim
+	url = git@github.com:cocopon/iceberg.vim
+[submodule "dot-vim/pack/filetypes/start/vim-isort"]
+	path = dot-vim/pack/filetypes/start/vim-isort
+	url = git@github.com:fisadev/vim-isort.git
+[submodule "dot-vim/pack/filetypes/start/vim-jsonc"]
+	path = dot-vim/pack/filetypes/start/vim-jsonc
+	url = git@github.com:kevinoid/vim-jsonc.git
+[submodule "dot-vim/pack/formatting/start/nerdcommenter"]
+	path = dot-vim/pack/formatting/start/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter
+[submodule "dot-vim/pack/formatting/start/tabular"]
+	path = dot-vim/pack/formatting/start/tabular
+	url = git@github.com:godlygeek/tabular.git
+[submodule "dot-vim/pack/formatting/start/vim-easy-align"]
+	path = dot-vim/pack/formatting/start/vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align
+[submodule "dot-vim/pack/games/opt/killersheep"]
+	path = dot-vim/pack/games/opt/killersheep
+	url = git@github.com:vim/killersheep
+[submodule "dot-vim/pack/git/start/diffconflicts"]
+	path = dot-vim/pack/git/start/diffconflicts
+	url = git@github.com:whiteinge/diffconflicts.git
+[submodule "dot-vim/pack/git/start/vim-gitgutter"]
+	path = dot-vim/pack/git/start/vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "dot-vim/pack/matching/start/delimitMate"]
+	path = dot-vim/pack/matching/start/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
+[submodule "dot-vim/pack/matching/start/vim-endwise"]
+	path = dot-vim/pack/matching/start/vim-endwise
+	url = git@github.com:tpope/vim-endwise
+[submodule "dot-vim/pack/matching/start/vim-matchit"]
+	path = dot-vim/pack/matching/start/vim-matchit
+	url = git@github.com:adelarsq/vim-matchit.git
+[submodule "dot-vim/pack/matching/start/vim-speeddating"]
+	path = dot-vim/pack/matching/start/vim-speeddating
+	url = git@github.com:tpope/vim-speeddating.git
+[submodule "dot-vim/pack/matching/start/vim-surround"]
+	path = dot-vim/pack/matching/start/vim-surround
+	url = git@github.com:tpope/vim-surround
+[submodule "dot-vim/pack/meta/start/editorconfig-vim"]
+	path = dot-vim/pack/meta/start/editorconfig-vim
+	url = git@github.com:editorconfig/editorconfig-vim
+[submodule "dot-vim/pack/meta/start/HiColors"]
+	path = dot-vim/pack/meta/start/HiColors
+	url = git@github.com:vim-scripts/HiColors
+[submodule "dot-vim/pack/meta/start/vim-project"]
+	path = dot-vim/pack/meta/start/vim-project
+	url = git@github.com:amiorin/vim-project.git
+[submodule "dot-vim/pack/navigation/start/vim-anyfold"]
+	path = dot-vim/pack/navigation/start/vim-anyfold
+	url = git@github.com:pseewald/vim-anyfold.git
+[submodule "dot-vim/pack/navigation/start/fzf"]
+	path = dot-vim/pack/navigation/start/fzf
+	url = git@github.com:junegunn/fzf.git
+[submodule "dot-vim/pack/navigation/start/fzf.vim"]
+	path = dot-vim/pack/navigation/start/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
+[submodule "dot-vim/pack/navigation/start/taglist.vim"]
+	path = dot-vim/pack/navigation/start/taglist.vim
+	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "dot-vim/pack/org/start/vim-misc"]
+	path = dot-vim/pack/org/start/vim-misc
+	url = git@github.com:xolox/vim-misc
+[submodule "dot-vim/pack/org/start/vim-notes"]
+	path = dot-vim/pack/org/start/vim-notes
+	url = git@github.com:xolox/vim-notes.git
+[submodule "dot-vim/pack/org/start/vim-todo-lists"]
+	path = dot-vim/pack/org/start/vim-todo-lists
+	url = git@github.com:aserebryakov/vim-todo-lists
+[submodule "dot-vim/pack/prose/start/goyo.vim"]
+	path = dot-vim/pack/prose/start/goyo.vim
+	url = git@github.com:junegunn/goyo.vim.git
+[submodule "dot-vim/pack/prose/start/vim-pencil"]
+	path = dot-vim/pack/prose/start/vim-pencil
+	url = git@github.com:reedes/vim-pencil.git
+[submodule "dot-vim/pack/prose/start/vim-textobj-sentence"]
+	path = dot-vim/pack/prose/start/vim-textobj-sentence
+	url = git@github.com:reedes/vim-textobj-sentence.git
+[submodule "dot-vim/pack/prose/start/vim-textobj-user"]
+	path = dot-vim/pack/prose/start/vim-textobj-user
+	url = git@github.com:kana/vim-textobj-user.git
+[submodule "dot-vim/pack/snippets/opt/coc-snippets"]
+	path = dot-vim/pack/snippets/opt/coc-snippets
+	url = git@github.com:neoclide/coc-snippets.git
+[submodule "dot-vim/pack/snippets/start/tlib_vim"]
+	path = dot-vim/pack/snippets/start/tlib_vim
+	url = git@github.com:tomtom/tlib_vim.git
+[submodule "dot-vim/pack/snippets/start/ultisnips"]
+	path = dot-vim/pack/snippets/start/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "dot-vim/pack/snippets/start/vim-addon-mw-utils"]
+	path = dot-vim/pack/snippets/start/vim-addon-mw-utils
+	url = git@github.com:MarcWeber/vim-addon-mw-utils
+[submodule "dot-vim/pack/snippets/start/vim-snippets"]
+	path = dot-vim/pack/snippets/start/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "dot-vim/pack/meta/start/vim-hilinks"]
+	path = dot-vim/pack/meta/start/vim-hilinks
+	url = https://github.com/kergoth/vim-hilinks
+[submodule "dot-vim/pack/navigation/start/folddigest.vim"]
+	path = dot-vim/pack/navigation/start/folddigest.vim
+	url = https://github.com/alissa-huskey/folddigest.vim/
+[submodule "dot-vim/pack/filetypes/start/vim-bundler"]
+	path = dot-vim/pack/filetypes/start/vim-bundler
+	url = git@github.com:tpope/vim-bundler
