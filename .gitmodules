@@ -109,9 +109,6 @@
 [submodule "dot-vim/pack/filetypes/start/vim-gnupg"]
 	path = dot-vim/pack/filetypes/start/vim-gnupg
 	url = git@github.com:jamessan/vim-gnupg
-[submodule "dot-vim/pack/filetypes/start/vim-go"]
-	path = dot-vim/pack/filetypes/start/vim-go
-	url = git@github.com:fatih/vim-go
 [submodule "dot-vim/pack/filetypes/start/vim-jq"]
 	path = dot-vim/pack/filetypes/start/vim-jq
 	url = git@github.com:bfrg/vim-jq
